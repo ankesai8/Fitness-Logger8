@@ -1,7 +1,7 @@
 # Fitness Logger Application
   Deployed website:
 Here is a link to the deployed website
-# [Click](https://mongodbfitnessstracker.herokuapp.com/)
+# [Click](https://mongodbfitnessstracker.herokuapp.com/) to Veiw Deployed site
 
 As a user,
   should to be able to view create and track daily workouts.
