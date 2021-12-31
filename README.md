@@ -11,6 +11,14 @@ As a user,
 
 1. [Description](#description)
 2. [Installation](#Installation)
+3. [Usage](#Usage)
+4. [GitHub](#GitHub)
+5. [E-mail](#E-mail)
+6. [Technologies-Used](#Technologies-Used)
+
+## Description
+
+This app uses a MongoDB database to track your workouts, log your exercises, and show you your fitness stats.
 
 ## Installation
 
@@ -31,3 +39,11 @@ https://github.com/ankesai8
 
 ## E-mail
 ankesai8@gmail.com
+
+## Technologies-Used
+## JAVASCRIPT
+## HTML
+## CSS
+## REACT
+## EXPRESS
+## MONGODB
