@@ -14,12 +14,7 @@ app.use(logger("dev"));
 
 app.use(express.static("frontend"));
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/exercises", {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-  useCreateIndex: true,
-  useFindAndModify: false,
-});
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/exercises", {});
 
 console.log(process.env.MONGODB_URI);
 
