@@ -41,7 +41,7 @@ https://github.com/ankesai8
 ## E-mail
 ankesai8@gmail.com
 
-## Technologies-Used
+## Technologies-Used 🛠️
 ## JAVASCRIPT
 ## HTML
 ## CSS
