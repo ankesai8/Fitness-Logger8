@@ -41,10 +41,10 @@ https://github.com/ankesai8
 ## E-mail
 ankesai8@gmail.com
 
-## Technologies-Used 🛠️
-## [JAVASCRIPT]
-## [HTML]
-## [CSS]
-## [REACT]
-## [EXPRESS]
-## [MONGODB]
+# Technologies-Used 🛠️
+# [JAVASCRIPT]
+# [HTML]
+# [CSS]
+# [REACT]
+# [EXPRESS]
+# [MONGODB]
